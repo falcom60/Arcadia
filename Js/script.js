@@ -17,7 +17,7 @@ var swiper = new Swiper(".gallery-slider", {
         0:{
             slidesPerView:1,
         },
-        700: {
+        700:{
             slidesPerView:2,
         },
     }
